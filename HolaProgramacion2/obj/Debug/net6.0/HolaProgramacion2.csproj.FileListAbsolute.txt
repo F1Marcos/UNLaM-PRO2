@@ -1,0 +1,14 @@
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\bin\Debug\net6.0\HolaProgramacion2.exe
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\bin\Debug\net6.0\HolaProgramacion2.deps.json
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\bin\Debug\net6.0\HolaProgramacion2.runtimeconfig.json
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\bin\Debug\net6.0\HolaProgramacion2.dll
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\bin\Debug\net6.0\HolaProgramacion2.pdb
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\HolaProgramacion2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\HolaProgramacion2.AssemblyInfoInputs.cache
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\HolaProgramacion2.AssemblyInfo.cs
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\HolaProgramacion2.csproj.CoreCompileInputs.cache
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\HolaProgramacion2.dll
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\refint\HolaProgramacion2.dll
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\HolaProgramacion2.pdb
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\HolaProgramacion2.genruntimeconfig.cache
+Z:\UNLAM\Programacion_2\HolaProgramacion2\HolaProgramacion2\obj\Debug\net6.0\ref\HolaProgramacion2.dll
